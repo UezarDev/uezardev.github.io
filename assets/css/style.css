@@ -3462,11 +3462,11 @@ header.sidebar_menu .bottom_content {
   margin-bottom: 10px;
 }
 
-.portfolio_content h5 a {
+.portfolio_content h5 {
   font-weight: bold;
 }
 
-.portfolio_content h5 a,
+.portfolio_content h5,
 .portfolio_content p {
   color: #fff;
 }
